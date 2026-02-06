@@ -11,6 +11,11 @@ The goal of this project is to predict the final grade of students based on demo
 Description:  
 This dataset contains 395 students with 33 features including demographic, social, and academic information.
 
+Files included:
+Jupyter Notebook for loading and inspecting the dataset
+Methodology diagram showing the Machine Learning workflow
+Dataset description and problem definition
+
 AI Assistance
 The methodology diagram was created with the help of ChatGPT for guidance.  
 Conversation link: https://chatgpt.com/share/698641b6-9408-8004-a619-053e8997cc7a
