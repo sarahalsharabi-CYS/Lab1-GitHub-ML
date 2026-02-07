@@ -1,5 +1,3 @@
-# Machine Learning Labs Repository
-
 ## Lab 1
 Hi, I’m Sarah Alsharabi
 
